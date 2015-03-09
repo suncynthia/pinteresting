@@ -30,3 +30,7 @@ end
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'spring',        group: :development
+
+gem 'will_paginate', '~> 3.0.5'
+
+gem 'will_paginate-bootstrap'
